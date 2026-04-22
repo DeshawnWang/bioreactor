@@ -1,0 +1,2 @@
+../Core/Src/ntc_control.c:35:6:NTC_Control_Init	1
+../Core/Src/ntc_control.c:51:6:NTC_Control_Update	20

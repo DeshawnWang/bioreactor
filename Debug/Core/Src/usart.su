@@ -1,0 +1,10 @@
+../Core/Src/usart.c:28:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/usart.c:61:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/usart.c:112:6:MX_UART4_Init	8	static
+../Core/Src/usart.c:155:6:MX_UART7_Init	8	static
+../Core/Src/usart.c:198:6:MX_UART8_Init	8	static
+../Core/Src/usart.c:242:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:286:6:MX_USART3_UART_Init	8	static
+../Core/Src/usart.c:330:6:MX_USART6_UART_Init	8	static
+../Core/Src/usart.c:373:6:HAL_UART_MspInit	280	static
+../Core/Src/usart.c:824:6:HAL_UART_MspDeInit	16	static

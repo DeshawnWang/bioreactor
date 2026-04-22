@@ -1,0 +1,5 @@
+../Core/Src/ph.c:25:6:requestPH	24	static
+../Core/Src/ph.c:36:6:readPH	24	static
+../Core/Src/ph.c:58:6:adjustPH	16	static
+../Core/Src/ph.c:102:6:Task_PH	16	static
+../Core/Src/ph.c:121:6:Calibration_PH	4	static

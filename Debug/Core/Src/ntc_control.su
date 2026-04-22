@@ -1,0 +1,2 @@
+../Core/Src/ntc_control.c:35:6:NTC_Control_Init	8	static
+../Core/Src/ntc_control.c:51:6:NTC_Control_Update	64	static

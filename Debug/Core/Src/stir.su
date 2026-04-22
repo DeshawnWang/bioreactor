@@ -1,0 +1,5 @@
+../Core/Src/stir.c:10:7:Get_Sign	16	static
+../Core/Src/stir.c:21:7:SpeedMode	16	static
+../Core/Src/stir.c:39:7:Set_Stir_Speed	32	static
+../Core/Src/stir.c:73:7:Process_Stir_Command	32	static
+../Core/Src/stir.c:123:10:Read_Stir_Speed	40	static
